@@ -1,0 +1,4 @@
+*.php	diff=euckr
+*.css	diff=euckr
+*.py	diff=euckr
+*.js	diff=euckr
